@@ -23,8 +23,8 @@ user name and password: test
  # Home Page :
 ![Screenshot from 2023-12-31 19-19-28](https://github.com/vishnu-ot/sample-netflix-clone-mui/assets/103847009/bbba3d58-0949-404b-83cb-62fec73849e5)
 
- #Mobile view: 
- #Login Page :
+ # Mobile view: 
+ # Login Page :
 ![Screenshot from 2023-12-31 19-20-51](https://github.com/vishnu-ot/sample-netflix-clone-mui/assets/103847009/064b4806-be5d-4e55-a325-91dc6cb65d62)
 
 # Home Page : 
