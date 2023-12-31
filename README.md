@@ -14,3 +14,8 @@ user name and password: test
 * Axios
 * Debouncing techniques
 
+# Screen shorts
+
+Login Page : 
+
+![Screenshot from 2023-12-31 19-17-26](https://github.com/vishnu-ot/sample-netflix-clone-mui/assets/103847009/807f40ba-2594-4301-8c10-8f21ba9ca971)
